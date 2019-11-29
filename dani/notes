@@ -1,0 +1,8 @@
+./cgen/commonapi_someip_generator/commonapi-someip-generator-linux-x86_64 ./fild/source_idl_hardware_vehicle_cpu_swupdate_SwUpdateIC.fdepl 
+Executing CommonAPI SomeIP Code Generation...
+
+Using Franca Version 0.9.1.201412191134
+Warning: SomeIP validation: Deployment references "/home/agtu270124/dev/libs/work/fild/source_idl_hardware_vehicle_cpu_swupdate_SwUpdateIC.fidl" without referencing expected deployment file "/home/agtu270124/dev/libs/work/fild/source_idl_hardware_vehicle_cpu_swupdate_SwUpdateIC.fdepl". (file:/home/agtu270124/dev/libs/work/./fild/source_idl_hardware_vehicle_cpu_swupdate_SwUpdateIC.fdepl line : 1)
+SomeIP validation: Validaton of deployment finished with: 0 errors, 1 warnings.
+Generating code for /home/agtu270124/dev/libs/work/./fild/source_idl_hardware_vehicle_cpu_swupdate_SwUpdateIC.fdepl
+
